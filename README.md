@@ -36,7 +36,7 @@
 
 Once you've forked and cloned the project:
 
-`Run the project in Intellij IDEA`
+`Run the project in IntelliJ IDEA`
 
 ## Contributing
 
