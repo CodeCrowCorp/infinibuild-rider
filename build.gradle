@@ -16,7 +16,7 @@ dependencies {
     // Websocket:
     implementation group: "org.http4k", name: "http4k-client-websocket", version: "4.32.3.0"
     //Multipart file upload
-    implementation group: "org.http4k", name: "http4k-multipart", version: "4.32.3.0"
+    implementation group: "org.http4k", name: "http4k-multipart", version: "4.34.0.4"
 }
 
 ext {
