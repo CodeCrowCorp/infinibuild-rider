@@ -12,7 +12,7 @@ plugins {
 dependencies {
     implementation "org.http4k:http4k-core"
     // OkHttp (Sync + Async):
-    implementation group: "org.http4k", name: "http4k-client-okhttp", version: "4.34.2.0"
+    implementation group: "org.http4k", name: "http4k-client-okhttp", version: "4.34.3.1"
     // Websocket:
     implementation group: "org.http4k", name: "http4k-client-websocket", version: "4.34.3.1"
     //Multipart file upload
